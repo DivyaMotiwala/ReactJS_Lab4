@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "expenseDescription": "Bought Fridge",
+      "payeeName": "Ramesh",
+      "price": 12345,
+      "date": "2023-02-26",
+      "id": 1
+    },
+    {
+      "expenseDescription": "Paid Internet Bill",
+      "payeeName": "Rahul",
+      "price": 1200,
+      "date": "2023-02-25",
+      "id": 2
+    },
+    {
+      "expenseDescription": "Trip to Delhi",
+      "payeeName": "Ramesh",
+      "price": 10000,
+      "date": "2023-01-20",
+      "id": 3
+    },
+    {
+      "expenseDescription": "Trip to Mysore",
+      "payeeName": "Ramesh",
+      "price": 100000,
+      "date": "2023-01-29",
+      "id": 4
+    },
+    {
+      "expenseDescription": "Bought Car",
+      "payeeName": "Rahul",
+      "price": 150000,
+      "date": "2023-06-23T00:00:00.000Z",
+      "id": 5
+    },
+    {
+      "expenseDescription": "Bought Bus",
+      "payeeName": "Ramesh",
+      "price": 20000,
+      "date": "2023-06-22T00:00:00.000Z",
+      "id": 6
+    },
+    {
+      "expenseDescription": "Bought Bus",
+      "payeeName": "Ramesh",
+      "price": 20000,
+      "date": "2023-06-22T00:00:00.000Z",
+      "id": 7
+    },
+    {
+      "expenseDescription": "Summer Holiday",
+      "payeeName": "Rahul",
+      "price": 15000,
+      "date": "2023-06-23T00:00:00.000Z",
+      "id": 8
+    }
+  ]
+}
